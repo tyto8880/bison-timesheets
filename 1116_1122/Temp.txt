@@ -1,0 +1,1 @@
+This document forces this directory to show up on github when no timesheets have been added.
